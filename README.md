@@ -3,7 +3,7 @@
 
 ***"Hard work beats talent  when talent doesn’t work hard"***
 
-### _Sobre mim_
+### _About me_
 - _Backend Developer_
 - _Like to learn_
 - _English as second language_
